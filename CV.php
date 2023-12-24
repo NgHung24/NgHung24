@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>! Giới thiệu bản thân đi nào lên thôi nào, design again !</title>
+	<title>! Giới thiệu bản thân đi nào lên thôi nào, the design have been finish !</title>
 </head>
 <body>
 
